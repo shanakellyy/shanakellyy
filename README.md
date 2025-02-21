@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Shan!
 
-🎯 **Desenvolvedora Full-Stack** em formação
+🎯 **Desenvolvedora Full-Stack** em formação <br/>
 🤓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
@@ -32,7 +32,7 @@
 
 ### 📬 Me encontre aqui:
 - 💬 **LinkedIn**: [Meu Perfil](https://linkedin.com/in/shanakellydelima)
-
+<br/>
 💡 "Que tudo o que vocês fizerem seja feito com amor." – 1 Coríntios 16:14
 
 ---
