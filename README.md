@@ -8,7 +8,7 @@
 ### 🚀 Tecnologias que estou aprendendo:  
 💻 **Front-end:** HTML5, CSS3, JavaScript, Next.js, Tailwind CSS <br/>
 ⚙️ **Back-end:** JavaScript (Node.js), Python <br/>
-🎨 **Design & UI:** Figma, Canva <br/>
+🎨 **Design & UI:** Figma, Photoshop, GIMP <br/>
 🛠️ **Ferramentas:** Git, GitHub
 
 ---
