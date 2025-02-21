@@ -1,20 +1,23 @@
 # 👋 Olá, eu sou a Shan!
 
-🎯 Estudante de **Desenvolvimento Full-Stack**
+🎯 **Desenvolvedora Full-Stack** em formação
+🤓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
-### 🚀 Tecnologias que eu estou aprendendo:
-- 🌐 **Front-end**: HTML5, CSS3, JavaScript
-- 💾 **Back-end**: Python
-- 📱 **Ferramentas**: Git, GitHub, Figma, Canva
-- 🌱 Sempre aprendendo e aberta a novos desafios!
+### 🚀 Tecnologias que estou aprendendo:  
+💻 **Front-end:** HTML5, CSS3, JavaScript, Next.js, Tailwind CSS  
+⚙️ **Back-end:** JavaScript (Node.js), Python
+🎨 **Design & UI:** Figma, Canva  
+🛠️ **Ferramentas:** Git, GitHub  
 
 ---
 
-### 📚 O que eu estou fazendo agora:
-- Cursando Análise e Desenvolvimento de Sistemas 🖥️
-- Estudando inglês e fazendo alguns cursos complementares ✨
+### 📚 O que estou fazendo agora?
+- Me aprofundando em **Desenvolvimento Full-Stack** 🖥️  
+- Aprendendo **Next.js**, **Tailwind CSS** e **Node.js**  
+- Melhorando meu **inglês** e fazendo alguns cursinhos complementares
+- Documentando minha jornada no **Diário Dev**, lá no [LinkedIn](www.linkedin.com/in/shanakellydelima) 🚀  
 
 ---
 
@@ -27,8 +30,7 @@
 
 ---
 
-### 📬 Entre em contato comigo:
-
+### 📬 Me encontre aqui:
 - 💬 **LinkedIn**: [Meu Perfil](https://linkedin.com/in/shanakellydelima)
 
 💡 "Que tudo o que vocês fizerem seja feito com amor." – 1 Coríntios 16:14
