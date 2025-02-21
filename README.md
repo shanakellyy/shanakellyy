@@ -29,7 +29,6 @@
 
 ### 📬 Entre em contato comigo:
 
-- 📧 **E-mail**: rshanakelly@gmail.com
 - 💬 **LinkedIn**: [Meu Perfil](https://linkedin.com/in/shanakellydelima)
 
 💡 "Que tudo o que vocês fizerem seja feito com amor." – 1 Coríntios 16:14
