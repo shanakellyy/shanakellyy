@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou a Shan!
 
-🎯 **Desenvolvedora Full-Stack** em formação <br/>
+🎯 **Desenvolvedora** em formação <br/>
 🤓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
 ### 🚀 Tecnologias que estou aprendendo:  
-💻 **Front-end:** HTML5, CSS3, JavaScript, Next.js, Tailwind CSS <br/>
+💻 **Front-end:** HTML5, CSS3, JavaScript <br/>
 ⚙️ **Back-end:** JavaScript (Node.js), Python <br/>
 🎨 **Design & UI:** Figma, Photoshop, GIMP <br/>
 🛠️ **Ferramentas:** Git, GitHub
@@ -14,8 +14,7 @@
 ---
 
 ### 📚 O que estou fazendo agora?
-- Me aprofundando em **Desenvolvimento Full-Stack** 🖥️  
-- Aprendendo **Next.js**, **Tailwind CSS** e **Node.js**  
+- Me aprofundando em **Desenvolvimento** 🖥️   
 - Melhorando meu **inglês** e fazendo alguns cursinhos complementares
 - Documentando minha jornada no **Diário Dev**, lá no [LinkedIn](www.linkedin.com/in/shanakellydelima) 🚀  
 
